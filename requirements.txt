@@ -206,7 +206,7 @@ python-snappy==0.5.4
 pythonloc==0.1.2.0
 pytz==2018.9
 pyxdg==0.26
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.4.3
 reportlab==3.4.0
