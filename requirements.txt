@@ -133,7 +133,7 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.1.0
 jupyter-core==4.4.0
-jupyterlab==2.1.0
+jupyterlab==2.2.10
 jupyterlab-server==1.1.0
 kazam==1.4.5
 keyring==10.6.0
