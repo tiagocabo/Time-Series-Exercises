@@ -148,7 +148,7 @@ llvmlite==0.28.0
 louis==3.5.0
 lxml==4.2.1
 macaroonbakery==1.1.3
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==2.1.1
 metakernel==0.24.2
